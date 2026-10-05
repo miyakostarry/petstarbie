@@ -14,12 +14,14 @@
 
 ## Contents
 
-1. [2026-10-05 — Work session](#2026-10-05-work-session)
+1. [2026-10-05 — here basically i worked on the basic schematic design of my pcb and as a beginner i was hellish confused like how will i do this and that and as someone who have hard time focoussing and remembering t](#2026-10-05-here-basically-i-worked-on-the-basic-schematic-de)
 
 ## Design
 
-### 2026-10-05 — Work session
+### 2026-10-05 — here basically i worked on the basic schematic design of my pcb and as a beginner i was hellish confused like how will i do this and that and as someone who have hard time focoussing and remembering t
 
 **1.1h**
+
+here basically i worked on the basic schematic design of my pcb and as a beginner i was hellish confused like how will i do this and that and as someone who have hard time focoussing and remembering things all i'm gonna do now is too learn first how and what every single pins in esp used for and then i have to design the pcb according to me cat face structure so yeah it kind of alot of work and also i had to figure out shortcut keys and all how to connect particular thing i took tons of help of cluade to undertsand particular feature and i was helllish confused about using two swichtes too but i will figure it out like if i need more switches i will add it for now i have idea how the structure will be rest idk how many hours i had to post here but ig  in next one i will post about 10 hours ? maybe or maybe i will attach images here after i complete the pcb design properly thanks and i will update it rest i have tons of doubt and i don't know where to ask these
 
 [Timelapse](https://lookout.hackclub.com/api/media/4bc48698-713b-4eb5-ad9a-196d24e8f245/video.mp4)
