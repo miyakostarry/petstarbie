@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-05 — so at first all I did was to figure out the components followed the tutorial and figure out how to use the ki-cad schematic nothing much I completely followed the starbie tutorial u provided and added](#2026-10-05-so-at-first-all-i-did-was-to-figure-out-the-compo)
-2. [2026-10-07 — Work session](#2026-10-07-work-session)
+2. [2026-10-07 — this one entry is basically of day 2 , 6 october 2026 I](#2026-10-07-this-one-entry-is-basically-of-day-2-6-october-20)
 
 ## Design
 
@@ -27,10 +27,18 @@ so at first all I did was to figure out the components followed the tutorial and
 
 [Timelapse](https://lookout.hackclub.com/api/media/4bc48698-713b-4eb5-ad9a-196d24e8f245/video.mp4)
 
-### 2026-10-07 — Work session
+### 2026-10-07 — this one entry is basically of day 2 , 6 october 2026 I
 
 **0.65h**
 
-Work session
+this one entry is basically of day 2 , 6 october 2026 I
+
+![Screenshot 2026-10-06 234036](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/214a799b076bcbc14077d8f3055284933558fa7a784af5920b8ce6c9e69f5d7d.png)
+
+ was kind of confused with the journal entries so accidently edited the day one entry
+
+so I changed the switches to smaller one because my plan is to add buttons on cheeks on cat as blush ofc it will be of different colour so I added a footprint  for buttons for 6x6 something it was told this is better for cat cheeks and rest I added mounting holes , so I can fit it inside the structure if I'm able to make the structure As i have only made simple boxes structure never the round figurine type , so here is the how it will kind of look like i still have to make sure it fit properly
+
+so what I did today was to talk to people who are intrested in hardware and i have tons of doubt about the shape and size of my cat structure and the pcb design i'm still not sure so most probably i gonna meet someone on 7 oct to disscuss the pcb design with him
 
 [Timelapse](https://lookout.hackclub.com/api/media/bd65144f-b7d7-4715-97d2-7277be66e16e/video.mp4)
