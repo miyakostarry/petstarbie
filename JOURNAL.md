@@ -33,4 +33,6 @@ here basically i worked on the basic schematic design of my pcb and as a beginne
 
 **0.65h**
 
+Work session
+
 [Timelapse](https://lookout.hackclub.com/api/media/bd65144f-b7d7-4715-97d2-7277be66e16e/video.mp4)
