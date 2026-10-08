@@ -48,4 +48,10 @@ so what I did today was to talk to people who are intrested in hardware and i ha
 
 **0.77h**
 
+Work session
+
+so basically i had a meetup today with one of the hardware guy and we kind of added new things to try to make it much cooler so i here replaces all the parts though i still have to learn properly how to connect them and what each part do properly how it's operate rest i'm going to connect and complete my pcb design tommorow .......that's all for today now i have learn the proper working of each part properly thankyou for reading it
+
+![Screenshot 2026-10-08 230813](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/3d12392c5036764d825bc2671c499dad0596037e71089cdec05dfebe94b7a9de.png)
+
 [Timelapse](https://lookout.hackclub.com/api/media/2c122809-389e-44b9-94ed-dc4249c5b4a0/video.mp4)
