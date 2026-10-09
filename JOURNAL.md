@@ -17,7 +17,7 @@
 1. [2026-10-05 – so at first all I did was to figure out the components followed the tutorial and figure out how to use the ki-cad schematic nothing much I completely followed the starbie tutorial u provided and added](#2026-10-05-so-at-first-all-i-did-was-to-figure-out-the-compo)
 2. [2026-10-07 – this one entry is basically of day 2 , 6 october 2026 I](#2026-10-07-this-one-entry-is-basically-of-day-2-6-october-20)
 3. [2026-10-08 – Work session](#2026-10-08-work-session)
-4. [2026-10-09 – Work session](#2026-10-09-work-session)
+4. [2026-10-09 – Work sessiok so i had to chnage the components again to make sure it fit the pcb and the structure and then i designed the structure and had my friend help me create it in blender and i tried to recor](#2026-10-09-work-sessiok-so-i-had-to-chnage-the-components-ag)
 
 ## Design
 
@@ -57,9 +57,11 @@ so basically i had a meetup today with one of the hardware guy and we kind of ad
 
 [Timelapse](https://lookout.hackclub.com/api/media/2c122809-389e-44b9-94ed-dc4249c5b4a0/video.mp4)
 
-### 2026-10-09 – Work session
+### 2026-10-09 – Work sessiok so i had to chnage the components again to make sure it fit the pcb and the structure and then i designed the structure and had my friend help me create it in blender and i tried to recor
 
 **1.73h**
+
+Work sessiok so i had to chnage the components again to make sure it fit the pcb and the structure and then i designed the structure and had my friend help me create it in blender and i tried to record the process in meanwhile and i'm worried sick about the size of my catbie and i have to make sure it comes under the measuremnets let's see i have to kind of assemble thing again properly as we had to change the components again at last minuteson
 
 [Timelapse](https://lookout.hackclub.com/api/media/21f5e073-7511-4392-9709-8abec9131156/video.mp4)
 
