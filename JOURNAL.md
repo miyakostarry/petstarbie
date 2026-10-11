@@ -87,4 +87,12 @@ ok so i had to chnage the components again to make sure it fit the pcb and the s
 
 **0.93h**
 
+Work session
+
+done with the design it was hell alot of things i understood but many i didn't i realized there's like thousands way to make schematic or maybe i'm exerating but i did got confused over footprints and then conn = sockets or pins but it turned out well few other things i still have to study about well this is how it looks
+
+![Screenshot 2026-10-11 183441](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/340c35e250c929e7ae2985e86a72d9ce15f517607c6a76875f79aa66efdf0d2c.png)
+
+![Screenshot 2026-10-11 183500](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/93f7e44feee1c44aa4e080af08bfa880d0f9b98e10f81277519931ee322a8a65.png)
+
 [Timelapse](https://lookout.hackclub.com/api/media/9b821b97-a440-47d5-b225-1dd8050e7090/video.mp4)
