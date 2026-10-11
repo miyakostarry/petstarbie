@@ -18,7 +18,7 @@
 2. [2026-10-07 – this one entry is basically of day 2 , 6 october 2026 I](#2026-10-07-this-one-entry-is-basically-of-day-2-6-october-20)
 3. [2026-10-08 – Work session](#2026-10-08-work-session)
 4. [2026-10-09 – ![cat_starbie](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/142d198617e44f48c3dc2c5d72cc8c333c8e6f4d74371d73e84678222f18e56c.jpg)](#2026-10-09-catstarbiehttpshalflifehackclub-assetscomhackclub)
-5. [2026-10-10 – ok so i had to chnage the components again to make sure it fit the pcb and the structure and then i designed the structure and had my friend help me create it in blender and i tried to record the proc](#2026-10-10-ok-so-i-had-to-chnage-the-components-again-to-mak)
+5. [2026-10-10 – ![Screenshot 2026-10-12 042919](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/4362beacde73ade6dacfaccbc3041c945213edbfe442b3341ff9fd0ebf2f62bd.png)](#2026-10-10-screenshot-2026-10-12-042919httpshalflifehackclub)
 6. [2026-10-11 – Work session](#2026-10-11-work-session)
 7. [2026-10-11 – ![Screenshot 2026-10-12 024642](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/9ec5f5d1c66fd25b586f6d690f0b20dd04236ace6a7d6a0c3418be0992bc5851.png)](#2026-10-11-screenshot-2026-10-12-024642httpshalflifehackclub)
 
@@ -74,11 +74,13 @@ Work sessiok so i had to chnage the components again to make sure it fit the pcb
 
 [Timelapse](https://lookout.hackclub.com/api/media/1da54ca0-d038-4a0f-a09f-717695885467/video.mp4)
 
-### 2026-10-10 – ok so i had to chnage the components again to make sure it fit the pcb and the structure and then i designed the structure and had my friend help me create it in blender and i tried to record the proc
+### 2026-10-10 – ![Screenshot 2026-10-12 042919](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/4362beacde73ade6dacfaccbc3041c945213edbfe442b3341ff9fd0ebf2f62bd.png)
 
 **0.97h**
 
-ok so i had to chnage the components again to make sure it fit the pcb and the structure and then i designed the structure and had my friend help me create it in blender and i tried to record the process in meanwhile and i'm worried sick about the size of my catbie and i have to make sure it comes under the measuremnets let's see i have to kind of assemble thing again properly as we had to change the components again at last minutes
+![Screenshot 2026-10-12 042919](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/4362beacde73ade6dacfaccbc3041c945213edbfe442b3341ff9fd0ebf2f62bd.png)
+
+ok so i had to change the components again to make sure it fit the pcb and the structure and then i designed the structure and had my friend help me create it in blender and i tried to record the process in meanwhile and i'm worried sick about the size of my catbie and i have to make sure it comes under the measuremnets let's see i have to kind of assemble thing again properly as we had to change the components again at last minutes             so here it the final schmeatic
 
 [Timelapse](https://lookout.hackclub.com/api/media/8733a532-4178-46ca-b39c-e21b6c6b0dfd/video.mp4)
 
