@@ -19,7 +19,7 @@
 3. [2026-10-08 – Work session](#2026-10-08-work-session)
 4. [2026-10-09 – ![cat_starbie](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/142d198617e44f48c3dc2c5d72cc8c333c8e6f4d74371d73e84678222f18e56c.jpg)](#2026-10-09-catstarbiehttpshalflifehackclub-assetscomhackclub)
 5. [2026-10-10 – ![Screenshot 2026-10-12 042919](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/4362beacde73ade6dacfaccbc3041c945213edbfe442b3341ff9fd0ebf2f62bd.png)](#2026-10-10-screenshot-2026-10-12-042919httpshalflifehackclub)
-6. [2026-10-11 – Work session](#2026-10-11-work-session)
+6. [2026-10-11 – ![Screenshot 2026-10-12 030917](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/b735be994f3e47432e3128260726f99b46e9eedb47d10dd49e978339f8ec8254.png)](#2026-10-11-screenshot-2026-10-12-030917httpshalflifehackclub)
 7. [2026-10-11 – ![Screenshot 2026-10-12 024642](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/9ec5f5d1c66fd25b586f6d690f0b20dd04236ace6a7d6a0c3418be0992bc5851.png)](#2026-10-11-screenshot-2026-10-12-024642httpshalflifehackclub)
 
 ## Design
@@ -86,13 +86,15 @@ ok so i had to change the components again to make sure it fit the pcb and the s
 
 [Timelapse](https://lookout.hackclub.com/api/media/3d9830ab-83e3-4445-acf9-f120708068d2/video.mp4)
 
-### 2026-10-11 – Work session
+### 2026-10-11 – ![Screenshot 2026-10-12 030917](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/b735be994f3e47432e3128260726f99b46e9eedb47d10dd49e978339f8ec8254.png)
 
 **0.93h**
 
+![Screenshot 2026-10-12 030917](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/b735be994f3e47432e3128260726f99b46e9eedb47d10dd49e978339f8ec8254.png)
+
 Work session
 
-done with the design it was hell alot of things i understood but many i didn't i realized there's like thousands way to make schematic or maybe i'm exerating but i did got confused over footprints and then conn = sockets or pins but it turned out well few other things i still have to study about well this is how it looks
+done with the design it was hell alot of things i understood but many i didn't i realized there's like thousands way to make schematic or maybe i'm exerating but i did got confused over footprints and then conn sockets or pins but it turned out well few other things i still have to study about well this is how it looks and at final i got big help as i was way to concerned about the size and this is what my said that it can be two layered but i wasn't sure if it was common or not -------- THANKS  to HIM and HACKCLUB i learned quite alot compared to those 6 months............though i felt guily on how much of a help he's been and how clueless i was about alot of things though i failed to screen record alot of time....... and i accidently paused recording at beginning to i'll make sure not to do it next time if i get the chnace
 
 ![Screenshot 2026-10-11 183441](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/340c35e250c929e7ae2985e86a72d9ce15f517607c6a76875f79aa66efdf0d2c.png)
 
