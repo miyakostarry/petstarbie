@@ -31,7 +31,8 @@ All the parts plug into sockets on a cat-shaped PCB (designed in KiCad). The boa
 
 
 
-AI help is taken in understanding the working and what's the use of particular componnets , and also used in helping the parts and feature that is hard to understand for me 
+AI help is taken to understand how connections and components work and also help taken from people in how to use kiCAD and one of my friend helped me picking up the components to use so yeah he helped alot 
+another thing i want to add that my friend created the structure shell for my catbie/neckobie in blender but i'm having trouble opening the fbx file in blender so i couldn't post the image of it 
 
 
 <img width="968" height="867" alt="Screenshot 2026-10-11 183441" src="https://github.com/user-attachments/assets/f612e2aa-7574-4bb1-9eba-870210f532d2" />
