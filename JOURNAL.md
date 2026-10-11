@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 7.67h | 7 |
+| Week 1 | Tier 1 | 7.87h | 7 |
 
 ## Contents
 
@@ -100,7 +100,7 @@ done with the design it was hell alot of things i understood but many i didn't i
 
 ### 2026-10-11 – ![Screenshot 2026-10-12 024642](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/9ec5f5d1c66fd25b586f6d690f0b20dd04236ace6a7d6a0c3418be0992bc5851.png)
 
-**1.52h**
+**1.72h**
 
 ![Screenshot 2026-10-12 024642](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/9ec5f5d1c66fd25b586f6d690f0b20dd04236ace6a7d6a0c3418be0992bc5851.png)
 
@@ -109,3 +109,5 @@ done with the design it was hell alot of things i understood but many i didn't i
 so here i learned how you draw eyes in arduino IDE since it was my first time writing the code in it i tried to keep it simple and basic learning how you draw eyes in it , though i'm also working on a game made with pygame so i realized how all these languages share kind of same thing when it comes to drawing lines or circles or rectangle same as i did in pygame even though it's just basic code i was most thrilled with it learned how to write it excited that by end of this week i properly learn to write the code by myself with the help of my existing knowledge and also how to do animation and and also to add simple game as guide mentioned and more life to my catbie
 
 [Timelapse](https://lookout.hackclub.com/api/media/2eeb623d-b9a9-4600-ac7e-ee0c2d4b247b/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/d4fbfae9-a165-4cf1-9c72-524a89f527e3/video.mp4)
