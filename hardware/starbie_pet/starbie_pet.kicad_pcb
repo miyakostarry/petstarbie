@@ -7546,12 +7546,20 @@
 		(uuid "08c02c89-b94e-4ca1-a516-362425e0fbed")
 	)
 	(segment
-		(start 159.62 145.6433)
-		(end 159.62 116)
+		(start 159.62 116)
+		(end 159.62 146.96)
 		(width 0.2)
 		(layer "F.Cu")
 		(net "/CHG_OUT")
-		(uuid "4f62cbbe-d2f7-48a8-8f26-3e32c76b64c5")
+		(uuid "2fb0163c-48aa-4789-a554-22ec2839ac2f")
+	)
+	(segment
+		(start 159.62 146.96)
+		(end 159.58 147)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "/CHG_OUT")
+		(uuid "4bcc3bf8-43c5-4006-a44e-cf95ab0ce14e")
 	)
 	(segment
 		(start 159.58 145.6833)
