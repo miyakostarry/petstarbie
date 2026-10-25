@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 8.87h | 7 |
+| Week 1 | Tier 1 | 7.87h | 7 |
 
 ## Contents
 
@@ -104,7 +104,7 @@ done with the design it was hell alot of things i understood but many i didn't i
 
 ### 2026-10-11 – ![Screenshot 2026-10-12 024642](https://halflife.hackclub-assets.com/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/9ec5f5d1c66fd25b586f6d690f0b20dd04236ace6a7d6a0c3418be0992bc5851.png)
 
-**2.72h**
+**1.72h**
 
 ![Screenshot 2026-10-12 024642](https://halflife.hackclub-assets.com/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/9ec5f5d1c66fd25b586f6d690f0b20dd04236ace6a7d6a0c3418be0992bc5851.png)
 
@@ -115,5 +115,3 @@ so here i learned how you draw eyes in arduino IDE since it was my first time wr
 [Timelapse](https://lookout.hackclub.com/api/media/2eeb623d-b9a9-4600-ac7e-ee0c2d4b247b/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/d4fbfae9-a165-4cf1-9c72-524a89f527e3/video.mp4)
-
-[Timelapse](https://lookout.hackclub.com/api/media/65ed8ed6-e9f1-4a09-8ea0-bb81c07ae345/video.mp4)
