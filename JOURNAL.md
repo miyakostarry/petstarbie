@@ -4,13 +4,13 @@
 <!-- Generated: 2026-10-11T21:21:08.608Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuv4rpxh0dh301smxtdfbgen). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A tiny motion-controlled digital pet, basically a desktop Tamagotchi. Totally not a Starboy.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 7.87h | 7 |
+| Week 1 | Tier 1 | 8.87h | 7 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 4. [2026-10-09 – ![cat_starbie](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/142d198617e44f48c3dc2c5d72cc8c333c8e6f4d74371d73e84678222f18e56c.jpg)](#2026-10-09-catstarbiehttpshalflifehackclub-assetscomhackclub)
 5. [2026-10-10 – ![Screenshot 2026-10-12 042919](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/4362beacde73ade6dacfaccbc3041c945213edbfe442b3341ff9fd0ebf2f62bd.png)](#2026-10-10-screenshot-2026-10-12-042919httpshalflifehackclub)
 6. [2026-10-11 – ![Screenshot 2026-10-12 030917](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/b735be994f3e47432e3128260726f99b46e9eedb47d10dd49e978339f8ec8254.png)](#2026-10-11-screenshot-2026-10-12-030917httpshalflifehackclub)
-7. [2026-10-11 – ![Screenshot 2026-10-12 024642](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/9ec5f5d1c66fd25b586f6d690f0b20dd04236ace6a7d6a0c3418be0992bc5851.png)](#2026-10-11-screenshot-2026-10-12-024642httpshalflifehackclub)
+7. [2026-10-11 – ![Screenshot 2026-10-12 024642](https://halflife.hackclub-assets.com/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/9ec5f5d1c66fd25b586f6d690f0b20dd04236ace6a7d6a0c3418be0992bc5851.png)](#2026-10-11-screenshot-2026-10-12-024642httpshalflifehackclub)
 
 ## Design
 
@@ -38,7 +38,7 @@ so at first all I did was to figure out the components followed the tutorial and
 
 this one entry is basically of day 2 , 6 october 2026 I
 
-![Screenshot 2026-10-06 234036](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/214a799b076bcbc14077d8f3055284933558fa7a784af5920b8ce6c9e69f5d7d.png)
+![Screenshot 2026-10-06 234036](https://halflife.hackclub-assets.com/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/214a799b076bcbc14077d8f3055284933558fa7a784af5920b8ce6c9e69f5d7d.png)
 
  was kind of confused with the journal entries so accidently edited the day one entry
 
@@ -56,7 +56,7 @@ Work session
 
 so basically i had a meetup today with one of the hardware guy and we kind of added new things to try to make it much cooler so i here replaces all the parts though i still have to learn properly how to connect them and what each part do properly how it's operate rest i'm going to connect and complete my pcb design tommorow .......that's all for today now i have learn the proper working of each part properly thankyou for reading it
 
-![Screenshot 2026-10-08 230813](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/3d12392c5036764d825bc2671c499dad0596037e71089cdec05dfebe94b7a9de.png)
+![Screenshot 2026-10-08 230813](https://halflife.hackclub-assets.com/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/3d12392c5036764d825bc2671c499dad0596037e71089cdec05dfebe94b7a9de.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/2c122809-389e-44b9-94ed-dc4249c5b4a0/video.mp4)
 
@@ -64,7 +64,7 @@ so basically i had a meetup today with one of the hardware guy and we kind of ad
 
 **1.73h**
 
-![cat_starbie](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/142d198617e44f48c3dc2c5d72cc8c333c8e6f4d74371d73e84678222f18e56c.jpg)
+![cat_starbie](https://halflife.hackclub-assets.com/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/142d198617e44f48c3dc2c5d72cc8c333c8e6f4d74371d73e84678222f18e56c.jpg)
 
 Work sessiok so i had to chnage the components again to make sure it fit the pcb and the structure and then i designed the structure and had my friend help me create it in blender and i tried to record the process in meanwhile and i'm worried sick about the size of my catbie and i have to make sure it comes under the measuremnets let's see i have to kind of assemble thing again properly as we had to change the components again at last minute ok so this is the design based on this is my pcb  basically is the structure and also the pcb shape
 
@@ -78,7 +78,7 @@ Work sessiok so i had to chnage the components again to make sure it fit the pcb
 
 **0.97h**
 
-![Screenshot 2026-10-12 042919](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/4362beacde73ade6dacfaccbc3041c945213edbfe442b3341ff9fd0ebf2f62bd.png)
+![Screenshot 2026-10-12 042919](https://halflife.hackclub-assets.com/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/4362beacde73ade6dacfaccbc3041c945213edbfe442b3341ff9fd0ebf2f62bd.png)
 
 ok so i had to change the components again to make sure it fit the pcb and the structure and then i designed the structure and had my friend help me create it in blender and i tried to record the process in meanwhile and i'm worried sick about the size of my catbie and i have to make sure it comes under the measuremnets let's see i have to kind of assemble thing again properly as we had to change the components again at last minutes             so here it the final schmeatic
 
@@ -90,28 +90,30 @@ ok so i had to change the components again to make sure it fit the pcb and the s
 
 **0.93h**
 
-![Screenshot 2026-10-12 030917](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/b735be994f3e47432e3128260726f99b46e9eedb47d10dd49e978339f8ec8254.png)
+![Screenshot 2026-10-12 030917](https://halflife.hackclub-assets.com/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/b735be994f3e47432e3128260726f99b46e9eedb47d10dd49e978339f8ec8254.png)
 
 Work session
 
 done with the design it was hell alot of things i understood but many i didn't i realized there's like thousands way to make schematic or maybe i'm exerating but i did got confused over footprints and then conn sockets or pins but it turned out well few other things i still have to study about well this is how it looks and at final i got big help as i was way to concerned about the size and this is what my said that it can be two layered but i wasn't sure if it was common or not -------- THANKS  to HIM and HACKCLUB i learned quite alot compared to those 6 months............though i felt guily on how much of a help he's been and how clueless i was about alot of things though i failed to screen record alot of time....... and i accidently paused recording at beginning to i'll make sure not to do it next time if i get the chnace
 
-![Screenshot 2026-10-11 183441](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/340c35e250c929e7ae2985e86a72d9ce15f517607c6a76875f79aa66efdf0d2c.png)
+![Screenshot 2026-10-11 183441](https://halflife.hackclub-assets.com/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/340c35e250c929e7ae2985e86a72d9ce15f517607c6a76875f79aa66efdf0d2c.png)
 
-![Screenshot 2026-10-11 183500](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/93f7e44feee1c44aa4e080af08bfa880d0f9b98e10f81277519931ee322a8a65.png)
+![Screenshot 2026-10-11 183500](https://halflife.hackclub-assets.com/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/93f7e44feee1c44aa4e080af08bfa880d0f9b98e10f81277519931ee322a8a65.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/9b821b97-a440-47d5-b225-1dd8050e7090/video.mp4)
 
-### 2026-10-11 – ![Screenshot 2026-10-12 024642](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/9ec5f5d1c66fd25b586f6d690f0b20dd04236ace6a7d6a0c3418be0992bc5851.png)
+### 2026-10-11 – ![Screenshot 2026-10-12 024642](https://halflife.hackclub-assets.com/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/9ec5f5d1c66fd25b586f6d690f0b20dd04236ace6a7d6a0c3418be0992bc5851.png)
 
-**1.72h**
+**2.72h**
 
-![Screenshot 2026-10-12 024642](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/9ec5f5d1c66fd25b586f6d690f0b20dd04236ace6a7d6a0c3418be0992bc5851.png)
+![Screenshot 2026-10-12 024642](https://halflife.hackclub-assets.com/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/9ec5f5d1c66fd25b586f6d690f0b20dd04236ace6a7d6a0c3418be0992bc5851.png)
 
-![Screenshot 2026-10-12 024633](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/fa5608783125800d38b38f142736ac3db466bfb8682a27708cf774e24fd6fe95.png)
+![Screenshot 2026-10-12 024633](https://halflife.hackclub-assets.com/sessions/2vEaKTZ5elK2r7R0ttWmTm9bdLi78qzm/fa5608783125800d38b38f142736ac3db466bfb8682a27708cf774e24fd6fe95.png)
 
 so here i learned how you draw eyes in arduino IDE since it was my first time writing the code in it i tried to keep it simple and basic learning how you draw eyes in it , though i'm also working on a game made with pygame so i realized how all these languages share kind of same thing when it comes to drawing lines or circles or rectangle same as i did in pygame even though it's just basic code i was most thrilled with it learned how to write it excited that by end of this week i properly learn to write the code by myself with the help of my existing knowledge and also how to do animation and and also to add simple game as guide mentioned and more life to my catbie
 
 [Timelapse](https://lookout.hackclub.com/api/media/2eeb623d-b9a9-4600-ac7e-ee0c2d4b247b/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/d4fbfae9-a165-4cf1-9c72-524a89f527e3/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/65ed8ed6-e9f1-4a09-8ea0-bb81c07ae345/video.mp4)
