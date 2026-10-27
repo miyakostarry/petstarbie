@@ -5,7 +5,7 @@ MPU6050 GY-521,1,amazon,$3.40,$3.40,https://www.amazon.in/dp/B07H3XH1TB?utm_sour
 DHT11 module,1,robu,$0.56,$0.56,https://robu.in/product/dht11-digital-relative-humidity-temperature-sensor-module/?utm_source=chatgpt.com
 Tactile push button,1,robu,$0.25,$0.25,https://robu.in/product/6x6x5-tactile-push-button-switch/
 Resistor 100 kΩ,2,robu,$0.20,$0.40,https://robu.in/product/100k-ohm-0-5w-metal-film-resistor-pack-of-50/?utm_source=chatgpt.com
-"LiPo 3.7 V 500 mAh, JST-PH",1,amazon_but if i find it cheaper at local stores i'll buy it from there,$4.00,$4.00,https://www.amazon.in/s?k=3.7V+500mAh+lipo+battery+JST+PH
+"LiPo 3.7 V 500 mAh, JST-PH",1,amazon,$4.00,$4.00,https://www.amazon.in/s?k=3.7V+500mAh+lipo+battery+JST+PH
 "TP4056 charger (Type-C, with protection)",1,local vendor not amazon,$1.00,$1.00,https://www.amazon.in/s?k=TP4056+type+c+with+protection
 MT3608 boost converter,1,local shop,$1.00,$1.00,https://www.amazon.in/s?k=MT3608+boost+converter
 Estimated total shipping,1,,,$0.00,
